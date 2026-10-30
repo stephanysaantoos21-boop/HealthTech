@@ -12,12 +12,12 @@ Ano: 2026
 
 👥 Integrantes
 
-Nome completo	Matrícula
-
-Roger Luiz Ferreira de Souza	2026110111
-Kawã Henrique Soares Silva	2026105520
-Stephany Santos Pereira	3133363
-Haru Akin Neres Alves	2026114560
+| Nome completo | Matrícula |
+| --- | --- |
+| Roger Luiz Ferreira de Souza | 2026110111 |
+| Kawã Henrique Soares Silva | 2026105520 |
+| Stephany Santos Pereira | 3133363 |
+| Haru Akin Neres Alves | 2026114560 |
 
 🌍 1. Sobre o projeto
 
