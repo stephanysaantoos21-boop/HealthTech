@@ -1,5 +1,7 @@
 🌱 HealthTech — Tecnologia para um Futuro Sustentável
 
+![Logotipo oficial do HealthTech](logotipo.jpeg)
+
 Descarte consciente, saúde protegida e tecnologia sustentável.
 
 Instituição: Centro Universitário FMU
@@ -112,16 +114,12 @@ O símbolo visual deverá ser consolidado como logotipo oficial do projeto.
 
 Paleta de cores
 
-Cor	Código	Significado
-Verde-escuro	#1F6B4F	Sustentabilidade e confiança
-Verde-claro	#B8E0C6	Natureza e renovação
-Roxo	#59318A	Tecnologia e inovação
-Branco	#FFFFFF	Clareza e acessibilidade
-
+Vermelho-escuro  #8B0000  Sustentabilidade e compromisso
+Vermelho vivo    #FF1F1F  Tecnologia e inovação
+Branco           #F8F8F8  Clareza e acessibilidade
 Tipografia
 
-Fonte principal: Arial, com fontes alternativas sem serifa.
-
+Fonte principal: Montserrat, com fontes alternativas sem serifa.
 Justificativa: proporcionar leitura simples, clara e acessível em diferentes dispositivos.
 
 🚀 8. Pitch inicial
